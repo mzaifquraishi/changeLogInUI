@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "changeUi", "changeUi\changeUi.csproj", "{4063FD57-739A-4E72-8E4A-271DEB8CB771}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "changeLogInUI", "changeLogInUI\changeLogInUI.csproj", "{4063FD57-739A-4E72-8E4A-271DEB8CB771}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

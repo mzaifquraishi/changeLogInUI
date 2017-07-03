@@ -1,0 +1,7 @@
+C:\Users\z\Desktop\website\changeUi\changeUi\bin\Debug\changeUi.exe
+C:\Users\z\Desktop\website\changeUi\changeUi\bin\Debug\changeUi.pdb
+C:\Users\z\Desktop\website\changeUi\changeUi\obj\x86\Debug\changeUi.Form1.resources
+C:\Users\z\Desktop\website\changeUi\changeUi\obj\x86\Debug\changeUi.Properties.Resources.resources
+C:\Users\z\Desktop\website\changeUi\changeUi\obj\x86\Debug\changeUi.csproj.GenerateResource.Cache
+C:\Users\z\Desktop\website\changeUi\changeUi\obj\x86\Debug\changeUi.exe
+C:\Users\z\Desktop\website\changeUi\changeUi\obj\x86\Debug\changeUi.pdb
